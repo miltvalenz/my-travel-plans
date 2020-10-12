@@ -48,13 +48,13 @@ h2 {
     margin: 0;
     transform: rotate(-45deg);
     transition: transform 0.5s;
-    text-shadow: 0 0 5px #01579b;
+    text-shadow: 0 0 5px #df2c44;
 }
 
 #florida {
-    background-color: #03a9f4;
+    background-color: #f403f4;
 }
 
 #paris {
-    background-color: #d32f2f;
+    background-color: #3ead23;
 }
